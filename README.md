@@ -1,0 +1,1 @@
+-Hi, i´m Eswo, i'm a brazillian gamedev. I code in Godot Engine (i actually used unity, but switched for a lot of reasons)
